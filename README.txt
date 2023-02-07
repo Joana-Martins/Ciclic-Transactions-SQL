@@ -2,6 +2,9 @@ Trabalho Prático de Banco de Dados
 Autores: Joana Martins
 Professor: Rodrigo Laiola
 
+SGBD: PostgreSQL 
+Linguagem: SQL
+
 Como executar:
 1 - Clone o repositório em sua máquina ou decompate a pasta zipada
 2 - Abra a pasta no terminal
